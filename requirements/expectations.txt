@@ -1,0 +1,7 @@
+1) LLM approach 
+2) RAG solution 
+3) Engineering Decisions
+4) Thinking/Thought Process
+5) Code base/output
+Also mentioned about Streamlit and Langchain.
+These will be checked in my assessment.
