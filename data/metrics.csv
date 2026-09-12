@@ -1,0 +1,64 @@
+ticker,fiscal_year,period_end_date,metric,value,unit,confidence,source_quote,source_file
+AMD,2023,"December 30, 2023",revenue,22680000000.0,USD,confirmed,"Net revenue | $ | 22,680 | $ | 23,601 | $ | 16,434",AMD_10K_2023.html
+AMD,2023,"December 30, 2023",cogs,12220000000.0,USD,confirmed,"Total cost of sales | 12,220 | 12,998 | 8,505",AMD_10K_2023.html
+AMD,2023,"December 30, 2023",net_income,854000000.0,USD,confirmed,"Net income | $ | 854 | $ | 1,320 | $ | 3,162",AMD_10K_2023.html
+AMD,2023,"December 30, 2023",total_equity,55892000000.0,USD,confirmed,"Total stockholders’ equity | 55,892 | 54,750",AMD_10K_2023.html
+AMD,2023,"December 30, 2023",cash_from_operations,1667000000.0,USD,confirmed,"Net cash provided by operating activities | 1,667 | 3,565 | 3,521",AMD_10K_2023.html
+AMD,2023,"December 30, 2023",capex,546000000.0,USD,confirmed,Purchases of property and equipment | ( 546 ) | ( 450 ) | ( 301 ),AMD_10K_2023.html
+AMD,2023,"December 30, 2023",total_debt,2468000000.0,USD,confirmed,"EXPLICIT COMBINED TAG us-gaap:DebtLongtermAndShorttermCombinedAmount=2,468,000,000 (Total debt (net) | 2,468 | 2,467)",AMD_10K_2023.html
+AMD,2024,"December 28, 2024",revenue,25785000000.0,USD,confirmed,"Net revenue | $ | 25,785 | $ | 22,680 | $ | 23,601",AMD_10K_2024.html
+AMD,2024,"December 28, 2024",cogs,13060000000.0,USD,confirmed,"Total cost of sales | 13,060 | 12,220 | 12,998",AMD_10K_2024.html
+AMD,2024,"December 28, 2024",net_income,1641000000.0,USD,confirmed,"Net income | $ | 1,641 | $ | 854 | $ | 1,320",AMD_10K_2024.html
+AMD,2024,"December 28, 2024",total_equity,57568000000.0,USD,confirmed,"Total stockholders’ equity | 57,568 | 55,892",AMD_10K_2024.html
+AMD,2024,"December 28, 2024",cash_from_operations,3041000000.0,USD,confirmed,"Net cash provided by operating activities | 3,041 | 1,667 | 3,565",AMD_10K_2024.html
+AMD,2024,"December 28, 2024",capex,636000000.0,USD,confirmed,Purchases of property and equipment | ( 636 ) | ( 546 ) | ( 450 ),AMD_10K_2024.html
+AMD,2024,"December 28, 2024",total_debt,1721000000.0,USD,confirmed,"EXPLICIT COMBINED TAG us-gaap:DebtLongtermAndShorttermCombinedAmount=1,721,000,000 (Total debt (net) | 1,721 | 2,468)",AMD_10K_2024.html
+AMD,2025,"December 27, 2025",revenue,34639000000.0,USD,confirmed,"Net revenue | $ | 34,639 | $ | 25,785 | $ | 22,680",AMD_10K_2025.html
+AMD,2025,"December 27, 2025",cogs,17487000000.0,USD,confirmed,"Total cost of sales | 17,487 | 13,060 | 12,220",AMD_10K_2025.html
+AMD,2025,"December 27, 2025",net_income,4335000000.0,USD,confirmed,"Net income | $ | 4,335 | $ | 1,641 | $ | 854",AMD_10K_2025.html
+AMD,2025,"December 27, 2025",total_equity,62999000000.0,USD,confirmed,"Total stockholders’ equity | 62,999 | 57,568",AMD_10K_2025.html
+AMD,2025,"December 27, 2025",cash_from_operations,7709000000.0,USD,confirmed,"Net cash provided by operating activities | 7,709 | 3,041 | 1,667",AMD_10K_2025.html
+AMD,2025,"December 27, 2025",capex,974000000.0,USD,confirmed,Purchases of property and equipment | ( 974 ) | ( 636 ) | ( 546 ),AMD_10K_2025.html
+AMD,2025,"December 27, 2025",total_debt,3222000000.0,USD,confirmed,"EXPLICIT COMBINED TAG us-gaap:DebtLongtermAndShorttermCombinedAmount=3,222,000,000 (Total debt (net) | 3,222 | 1,721)",AMD_10K_2025.html
+INTC,2023,"December 30, 2023",revenue,54228000000.0,USD,confirmed,"Net revenue | $ | 54,228 | $ | 63,054 | $ | 79,024",INTC_10K_2023.html
+INTC,2023,"December 30, 2023",cogs,32517000000.0,USD,confirmed,"Cost of sales | 32,517 | 36,188 | 35,209",INTC_10K_2023.html
+INTC,2023,"December 30, 2023",net_income,1689000000.0,USD,confirmed,"Net income attributable to Intel | $ | 1,689 | $ | 8,014 | $ | 19,868",INTC_10K_2023.html
+INTC,2023,"December 30, 2023",total_equity,105590000000.0,USD,confirmed,"Total Intel stockholders' equity | 105,590 | 101,423",INTC_10K_2023.html
+INTC,2023,"December 30, 2023",cash_from_operations,11471000000.0,USD,confirmed,"Net cash provided by operating activities | 11,471 | 15,433 | 29,456",INTC_10K_2023.html
+INTC,2023,"December 30, 2023",capex,25750000000.0,USD,confirmed,"Additions to property, plant, and equipment | ( 25,750 ) | ( 24,844 ) | ( 18,733 )",INTC_10K_2023.html
+INTC,2023,"December 30, 2023",total_debt,49266000000.0,USD,confirmed,"SUMMED: us-gaap:LongTermDebtNoncurrent=46,978,000,000 (Debt | 46,978 | 37,684) + us-gaap:LongTermDebtCurrent/DebtCurrent=2,288,000,000 (Short-term debt | $ | 2,288 | $ | 4,367) = 49,266,000,000; cross-checked against us-gaap:LongTermDebt=49,266,000,000 (Long-term debt | 49,266 | 38,107) — MATCHES",INTC_10K_2023.html
+INTC,2024,"December 28, 2024",revenue,53101000000.0,USD,confirmed,"Net revenue | $ | 53,101 | $ | 54,228 | $ | 63,054",INTC_10K_2024.html
+INTC,2024,"December 28, 2024",cogs,35756000000.0,USD,confirmed,"Cost of sales | 35,756 | 32,517 | 36,188",INTC_10K_2024.html
+INTC,2024,"December 28, 2024",net_income,-18756000000.0,USD,confirmed,"Net income (loss) attributable to Intel | $ | ( 18,756 ) | $ | 1,689 | $ | 8,014",INTC_10K_2024.html
+INTC,2024,"December 28, 2024",total_equity,99270000000.0,USD,confirmed,"Total Intel stockholders' equity | 99,270 | 105,590",INTC_10K_2024.html
+INTC,2024,"December 28, 2024",cash_from_operations,8288000000.0,USD,confirmed,"Net cash provided by (used for) operating activities | 8,288 | 11,471 | 15,433",INTC_10K_2024.html
+INTC,2024,"December 28, 2024",capex,23944000000.0,USD,confirmed,"Additions to property, plant, and equipment | ( 23,944 ) | ( 25,750 ) | ( 24,844 )",INTC_10K_2024.html
+INTC,2024,"December 28, 2024",total_debt,50011000000.0,USD,confirmed,"SUMMED: us-gaap:LongTermDebtNoncurrent=46,282,000,000 (Debt | 46,282 | 46,978) + us-gaap:LongTermDebtCurrent/DebtCurrent=3,729,000,000 (Short-term debt | 3,729 | 2,288) = 50,011,000,000; cross-checked against us-gaap:LongTermDebt=50,011,000,000 (Long-term debt | 50,011 | 49,266) — MATCHES",INTC_10K_2024.html
+INTC,2025,"December 27, 2025",revenue,52853000000.0,USD,confirmed,"Net revenue | $ | 52,853 | $ | 53,101 | $ | 54,228",INTC_10K_2025.html
+INTC,2025,"December 27, 2025",cogs,34478000000.0,USD,confirmed,"Cost of sales | 34,478 | 35,756 | 32,517",INTC_10K_2025.html
+INTC,2025,"December 27, 2025",net_income,-267000000.0,USD,confirmed,"Net income (loss) attributable to Intel | $ | ( 267 ) | $ | ( 18,756 ) | $ | 1,689",INTC_10K_2025.html
+INTC,2025,"December 27, 2025",total_equity,114281000000.0,USD,confirmed,"Total Intel stockholders' equity | 114,281 | 99,270",INTC_10K_2025.html
+INTC,2025,"December 27, 2025",cash_from_operations,9697000000.0,USD,confirmed,"Net cash provided by (used for) operating activities | 9,697 | 8,288 | 11,471",INTC_10K_2025.html
+INTC,2025,"December 27, 2025",capex,14646000000.0,USD,confirmed,"Additions to property, plant and equipment | ( 14,646 ) | ( 23,944 ) | ( 25,750 )",INTC_10K_2025.html
+INTC,2025,"December 27, 2025",total_debt,46585000000.0,USD,confirmed,"SUMMED: us-gaap:LongTermDebtNoncurrent=44,086,000,000 (Debt | 44,086 | 46,282) + us-gaap:LongTermDebtCurrent/DebtCurrent=2,499,000,000 (Short-term debt | 2,499 | 3,729) = 46,585,000,000; cross-checked against us-gaap:LongTermDebt=46,585,000,000 (Long-term debt | 46,585 | 50,011) — MATCHES",INTC_10K_2025.html
+NVDA,2024,"January 28, 2024",revenue,60922000000.0,USD,confirmed,"Revenue | $ | 60,922 | $ | 26,974 | $ | 26,914",NVDA_10K_2024.html
+NVDA,2024,"January 28, 2024",cogs,16621000000.0,USD,confirmed,"Cost of revenue | 16,621 | 11,618 | 9,439",NVDA_10K_2024.html
+NVDA,2024,"January 28, 2024",net_income,29760000000.0,USD,confirmed,"Net income | $ | 29,760 | $ | 4,368 | $ | 9,752",NVDA_10K_2024.html
+NVDA,2024,"January 28, 2024",total_equity,42978000000.0,USD,confirmed,"Total shareholders' equity | 42,978 | 22,101",NVDA_10K_2024.html
+NVDA,2024,"January 28, 2024",cash_from_operations,28090000000.0,USD,confirmed,"Net cash provided by operating activities | 28,090 | 5,641 | 9,108",NVDA_10K_2024.html
+NVDA,2024,"January 28, 2024",capex,1069000000.0,USD,confirmed,"Purchases related to property and equipment and intangible assets | ( 1,069 ) | ( 1,833 ) | ( 976 )",NVDA_10K_2024.html
+NVDA,2024,"January 28, 2024",total_debt,9709000000.0,USD,confirmed,"SUMMED: us-gaap:LongTermDebtNoncurrent=8,459,000,000 (Long-term debt | 8,459 | 9,703) + us-gaap:LongTermDebtCurrent/DebtCurrent=1,250,000,000 (Short-term debt | 1,250 | 1,250) = 9,709,000,000; cross-checked against us-gaap:LongTermDebt=9,709,000,000 (Net carrying amount | 9,709 | 10,953) — MATCHES",NVDA_10K_2024.html
+NVDA,2026,"January 25, 2026",revenue,215938000000.0,USD,confirmed,"Revenue | $ | 215,938 | $ | 130,497 | $ | 60,922",NVDA_10K_2025.html
+NVDA,2026,"January 25, 2026",cogs,62475000000.0,USD,confirmed,"Cost of revenue | 62,475 | 32,639 | 16,621",NVDA_10K_2025.html
+NVDA,2026,"January 25, 2026",net_income,120067000000.0,USD,confirmed,"Net income | $ | 120,067 | $ | 72,880 | $ | 29,760",NVDA_10K_2025.html
+NVDA,2026,"January 25, 2026",total_equity,157293000000.0,USD,confirmed,"Total shareholders' equity | 157,293 | 79,327",NVDA_10K_2025.html
+NVDA,2026,"January 25, 2026",cash_from_operations,102718000000.0,USD,confirmed,"Net cash provided by operating activities | 102,718 | 64,089 | 28,090",NVDA_10K_2025.html
+NVDA,2026,"January 25, 2026",capex,6042000000.0,USD,confirmed,"Purchases related to property and equipment and intangible assets | ( 6,042 ) | ( 3,236 ) | ( 1,069 )",NVDA_10K_2025.html
+NVDA,2026,"January 25, 2026",total_debt,8468000000.0,USD,confirmed,"SUMMED: us-gaap:LongTermDebtNoncurrent=7,469,000,000 (Long-term debt | 7,469 | 8,463) + us-gaap:LongTermDebtCurrent/DebtCurrent=999,000,000 (Short-term debt | 999 | —) = 8,468,000,000; cross-checked against us-gaap:LongTermDebt=8,468,000,000 (Net carrying amount | 8,468 | 8,463) — MATCHES",NVDA_10K_2025.html
+NVDA,2025,"January 26, 2025",revenue,130497000000.0,USD,confirmed,"Revenue | $ | 130,497 | $ | 60,922 | $ | 26,974",NVDA_10K_2026.html
+NVDA,2025,"January 26, 2025",cogs,32639000000.0,USD,confirmed,"Cost of revenue | 32,639 | 16,621 | 11,618",NVDA_10K_2026.html
+NVDA,2025,"January 26, 2025",net_income,72880000000.0,USD,confirmed,"Net income | $ | 72,880 | $ | 29,760 | $ | 4,368",NVDA_10K_2026.html
+NVDA,2025,"January 26, 2025",total_equity,79327000000.0,USD,confirmed,"Total shareholders' equity | 79,327 | 42,978",NVDA_10K_2026.html
+NVDA,2025,"January 26, 2025",cash_from_operations,64089000000.0,USD,confirmed,"Net cash provided by operating activities | 64,089 | 28,090 | 5,641",NVDA_10K_2026.html
+NVDA,2025,"January 26, 2025",capex,3236000000.0,USD,confirmed,"Purchases related to property and equipment and intangible assets | ( 3,236 ) | ( 1,069 ) | ( 1,833 )",NVDA_10K_2026.html
+NVDA,2025,"January 26, 2025",total_debt,8463000000.0,USD,confirmed,"SUMMED: us-gaap:LongTermDebtNoncurrent=8,463,000,000 (Long-term debt | 8,463 | 8,459) + no current-portion tag found, treated as $0 = 8,463,000,000; cross-checked against us-gaap:LongTermDebt=8,463,000,000 (Net carrying amount | 8,463 | 9,709) — MATCHES",NVDA_10K_2026.html
